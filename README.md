@@ -1,15 +1,26 @@
 # q-ui
-> Q UI component
+
+Q UI component
 
 
 ## Installation
 
 ```shell
-yarn add q-ui --save
+npm install --save q-ui
+npm install --save q-theme-default
 ```
 
 ## Usage
 
+```js
+import { Slider } from 'q-ui'
+```
 
-##  Import your need
+## License
+
+MIT
+
+
+
+
 

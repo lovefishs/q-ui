@@ -8,11 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@192.168.1.121:ui-module/q-ui.git"
+    "url": "https://github.com/lovefishs/q-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lovefishs/q-ui/issues"
   },
   "keywords": [
     "q-ui"
   ],
+  "engines": {
+    "node": ">= 8.0.0",
+    "npm": ">= 5.0.0"
+  },
   "author": "changming.huang@woqutech.com",
   "license": "MIT",
   "devDependencies": {},
